@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bus Voice</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_location_result">LocationResult</string>
+    <string name="title_activity_navigation_page">NavigationPage</string>
+    <string name="navigatenow">Navigate Now</string>
+    <string name="returnstring">Return</string>
+        <string name="title_activity_navigating_page">NavigatingPage</string>
+    <string name="repeat">Repeat</string>
+    <string name="reachedbusstop">REACHED</string>
+        <string name="title_activity_display_timetable">DisplayTimetable</string>
+    <string name="onbus">On boarding</string>
+        <string name="title_activity_on_bus">OnBus</string>
+        <string name="title_activity_favourite_trip">FavouriteTrip</string>
+</resources>

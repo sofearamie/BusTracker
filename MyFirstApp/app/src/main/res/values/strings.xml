@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--idk what this is for-->
+
+<resources>
+    <!--Example of using string-->
+    <!--<string name="variablename">Body string what to write</string>-->
+
+    <string name="app_name">My First App</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="edit_message">Enter your message</string>
+    <string name="button_send">Send!</string>
+    <string name="fancy_helloworld">Hello World! Sofea is now conquering Android apps! Hehehe</string>
+    <string name="title_activity_display_message">My Message</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_help">Help</string>
+    <string name="AskSearch">What are you looking for?</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="Fragment1Text">It is Fragment 1!"</string>
+    <string name="Fragment2Text">It is Fragment 2!"</string>
+    <string name="Fragment3Text">It is Fragment 3!"</string>
+    <string name="Fragment4Text">It is Fragment 4!"</string>
+    <string name="Fragment5Text">It is Fragment 5!"</string>
+    <string name="Fragment6Text">It is Fragment 6!"</string>
+    <string name="Fragment7Text">It is Fragment 7!"</string>
+    <string name="Fragment8Text">It is Fragment 8!"</string>
+    <string name="HelpText">This is a help page. May I help you?</string>
+
+    <string name="LoremIpsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed rutrum vulputate dui, vel aliquam risus iaculis quis. Phasellus nec metus et nibh venenatis interdum euismod a felis. Nunc ut dui a urna laoreet feugiat iaculis id orci. Mauris ut libero mi. Cras hendrerit finibus mauris, eget sollicitudin justo dapibus et. In sit amet odio enim. In dui tellus, blandit ac quam eget, blandit rutrum dui.In non quam tempus quam sollicitudin lobortis. Etiam sed tellus non leo luctus vehicula. Fusce non arcu sit amet velit tempus pharetra eget ac augue. Etiam sed enim et mauris tristique accumsan quis congue purus. Praesent vitae tempor nisi. Nullam tellus purus, pharetra id magna in, dignissim sagittis mauris. Nunc ac nunc eget nunc viverra tincidunt. Nulla facilisi. Nullam vehicula tristique finibus. Maecenas lorem elit, bibendum a facilisis ut, luctus vel arcu. Nulla facilisi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus tincidunt consequat libero non fringilla.Fusce vitae vestibulum dolor. Vestibulum eu porttitor dolor. Proin molestie feugiat nulla quis hendrerit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Donec pulvinar dictum suscipit. Morbi cursus mauris at eros congue pretium. Mauris vitae libero a ex placerat consequat. Nunc sodales ipsum vel massa pellentesque accumsan. Aliquam risus lorem, pharetra nec risus rutrum, tincidunt egestas elit. Suspendisse et scelerisque purus, eu scelerisque nibh. Aenean risus sem, blandit et erat dignissim, dictum posuere mi. Mauris a bibendum lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam vitae commodo lacus, in pulvinar tortor. In iaculis varius risus, ut lacinia ligula tempor sit amet.
+Suspendisse ultricies nisi quis pharetra lacinia. Nullam consectetur metus id dolor tincidunt, commodo laoreet dui elementum. Phasellus scelerisque semper eleifend. Praesent sit amet efficitur tellus. Etiam at finibus augue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique sollicitudin augue nec commodo. Nulla risus erat, efficitur ac metus et, iaculis porttitor libero. Integer vitae neque vel mauris vulputate dignissim in id est. Aliquam lorem nunc, sagittis eget justo nec, bibendum molestie dui. Vestibulum non fringilla odio.Cras pretium elit et commodo pretium. Pellentesque commodo at urna eu pulvinar. Ut faucibus vehicula leo. Vivamus mollis sodales justo, quis elementum dolor sagittis id. Duis tempor pretium lacus. Donec a lectus ut erat cursus posuere ut ac magna. Nam convallis, nulla et imperdiet sollicitudin, elit arcu tempus risus, ac dapibus mauris magna viverra turpis. Etiam ut ex in odio rutrum porta vel vel lorem. Donec ut mauris enim. Suspendisse viverra finibus magna elementum ultrices. Nulla suscipit at diam in rhoncus. Vivamus at scelerisque nibh. Nulla ut est eu diam congue tincidunt at at turpis. Aenean auctor sagittis ante ut interdum. Morbi massa sem, malesuada sit amet eros a, tempor congue eros. Quisque a varius turpis, et rutrum lectus.</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_help">Help Activity</string>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Create</item>
+        <item>Read</item>
+        <item>Help</item>
+    </string-array>
+
+</resources>
+

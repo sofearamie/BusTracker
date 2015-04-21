@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.tengchinsheng.bustracker.DisplayTimetable"
+    android:background="#FF4C65"
+    android:id="@+id/relativelayout5">
+
+    <TextView android:text="Bus Departures" android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:id="@+id/textView3"
+        android:textSize="40sp"
+        android:layout_alignRight="@+id/listView2"
+        android:layout_alignEnd="@+id/listView2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:onClick="busDepartureOnClick"
+        android:textColor="#FBE2B4"
+        android:gravity="center" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        android:id="@+id/listView2"
+        android:layout_above="@+id/button8"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="20dp" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:text="@string/onbus"
+        android:id="@+id/button7"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="40sp"
+        android:onClick="onBusOnClick"
+        android:background="#FFC33C" />
+
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"
+        android:text="@string/repeat"
+        android:id="@+id/button8"
+        android:layout_above="@+id/button7"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="20dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="40sp"
+        android:onClick="repeatBtnOnClick"
+        android:background="#00C8F8" />
+
+</RelativeLayout>

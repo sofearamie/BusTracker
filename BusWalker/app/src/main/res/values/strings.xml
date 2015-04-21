@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Bus Walker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="locatestops">LOCATE NEAREST BUS STOP</string>
+    <string name="title_activity_nearest_stops">NearestStops</string>
+    <string name="NearestStops">Nearest Stops</string>
+    <string name="locate">Locate!</string>
+    <string name="blabla">blablablatesting</string>
+    <string name="title_activity_choosing_stops">ChoosingStops</string>
+    <string name="chooseStops">Choose one Bus Stop</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="timetable">Bus Arrivals</string>
+    <string name="title_activity_on_bus">OnBus</string>
+    <string name="title_activity_out_bus">OutBus</string>
+    <string name="title_activity_favourite">Favourite</string>
+    <string name="savefav">Favourite!</string>
+    <string name="save">Save Route</string>
+    <string name="countdown">You will be reaching your destination in</string>
+    <string name="title_activity_countdown_destination">CountdownDestination</string>
+    <string name="minutes"></string>
+    <string name="onbus">I'm on the bus</string>
+</resources>

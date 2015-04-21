@@ -1,0 +1,41 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_gravity="center"
+    tools:context=".MainActivity"
+    android:weightSum="1">
+<TextView
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:textAlignment="center"
+    android:text="ANDROID Text File"
+    android:id="@+id/displayText"
+    android:textSize="18sp" />
+
+    <EditText
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:id="@+id/ftext"
+android:hint="Your name" />
+
+    <Button
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/btnwrite"
+    android:text="SAVE" />
+
+    <Button
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:id="@+id/btnread"
+android:text="READ" />
+
+    <TextView
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+android:id="@+id/filecon"
+        android:layout_weight="0.15" />
+</LinearLayout>

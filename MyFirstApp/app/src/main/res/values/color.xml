@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="opaque_red">#f00</color>
+    <color name="translucent_red">#80ff0000</color>
+    <color name="deeppink">#FF1493</color>
+    <color name="yellow">#FFF700</color>
+    <color name="lightblue">#00FFE6</color>
+    <color name="lightgreen">#00FF5E</color>
+    <color name="darkgreen">#179746</color>
+    <color name="purple">#7D1797</color>
+    <color name="babyblue">#44EFEF</color>
+    <color name="black">#000</color>
+    <color name="grey">#1300</color>
+
+
+</resources>
